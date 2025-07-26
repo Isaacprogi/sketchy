@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* styles/globals.css */
+.cursor-pencil {
+  cursor: url('./assets/pencil.png') 0 16, auto;
+}
+
+.cursor-eraser {
+  cursor: url('./assets/eraser.png') 0 16, auto;
+}
